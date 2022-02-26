@@ -61,7 +61,9 @@
 					</div>
 				</div>
 			</div>
-			<img class="face-img img-fluid" src="img/banner/home-banner.jpg" alt="">
+			<div class="flex" style="position: absolute">
+				<img class="face-img img-fluid" src="img/banner/home-banner.jpg" alt="">
+			</div>
 		</section>
 		<!--================ End banner section =================-->
 
